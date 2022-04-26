@@ -9,7 +9,7 @@ while run:
 print('------------')
 #Рекрусия
 
-def bag(a):
+def bаg(a):
     d=random.randint(1,5)
     print(d)
     if d==a:
